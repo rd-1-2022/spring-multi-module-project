@@ -1,0 +1,12 @@
+:doctype: book
+:toc: left
+:toclevels: 4
+:sectnums:
+
+include::attributes.adoc[]
+
+include::header/index-header.adoc[]
+
+include::intro.adoc[]
+
+include::glossary.adoc[]

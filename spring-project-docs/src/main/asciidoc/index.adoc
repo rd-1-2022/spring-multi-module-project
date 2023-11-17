@@ -1,0 +1,17 @@
+include::attributes.adoc[]
+
+include::header/index-header.adoc[]
+
+// ======================================================================================
+
+The reference documentation is divided into several sections:
+
+[horizontal]
+<<intro.adoc#ai-intro,Project Introduction>> :: Background, usage
+ scenarios, and general guidelines.
+b
+[horizontal]
+<<glossary.adoc#glossary,Glossary>> :: Glossary of common terms, concepts, and vocabulary of
+the AI domain.
+
+include::footer/index-footer.adoc[]
